@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body { background-color: #ffe0e5;}
+
+h1{ text-align: center;}
+h1, h2{ color: #ea6178;}
+
+h1{
+  width: 300px;
+  border: 30px solid white;
+  padding: 5px;
+  margin: 10px;
+}
+b{ color: #ff7a91; }
+
+p{ color: #ff7a91; }
+
+
+
+
+
